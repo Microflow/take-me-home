@@ -18,7 +18,23 @@
 
 ### If you start with one taxi, what are the problems?
 
-###
+### How can I sell one taxi?
+
+### What kind of car do you want?
+
+### Where can we find a luxury car?
+
+### What kind of brand do we want?
+
+### What color should the car be?
+
+### How else could the car be special?
+
+Hot towels, metal business cards, drinks. 
+
+### How much profit are you expecting per kilometer?
+
+### How will you work with charities?
 
 
 
