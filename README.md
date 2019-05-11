@@ -10,4 +10,15 @@
 
 ### What platform are you working on: Responsive web, iOS or Android?
 
-### 
+### What is your unique selling point?
+
+### How are you different?
+
+### How many taxis are you starting with?
+
+### If you start with one taxi, what are the problems?
+
+###
+
+
+
