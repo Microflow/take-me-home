@@ -38,5 +38,17 @@ Hot towels, metal business cards, drinks.
 
 ### Milestones?
 
+### What is the best payment system?
+
+LINE pay. 
+
+### How long should the cancel period be?
+
+### What problems can you see?
+
+Legal...
+
+Open source uber clone elixir
+
 
 
